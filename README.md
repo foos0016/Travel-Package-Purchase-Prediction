@@ -2,9 +2,7 @@
 The "Visit with us" travel company dataset is used to analyze the customers' information and build a model to predict the potential customer who is going to purchase the newly introduced package.
 
 
-Background and Context:
-
-You are a Data Scientist for a tourism company named "Visit with us". The Policy Maker of the company wants to enable and establish a viable business model to expand the customer base.
+Background and Context: You are a Data Scientist for a tourism company named "Visit with us". The Policy Maker of the company wants to enable and establish a viable business model to expand the customer base.
 
 A viable business model is a central concept that helps you to understand the existing ways of doing the business and how to change the ways for the benefit of the tourism sector.
 
