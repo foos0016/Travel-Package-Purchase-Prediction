@@ -15,7 +15,7 @@ The company is now planning to launch a new product i.e. Wellness Tourism Packag
 
 However, this time company wants to harness the available data of existing and potential customers to make the marketing expenditure more efficient.
 
-You as a Data Scientist at "Visit with us" travel company have to analyze the customers' data and information to provide recommendations to the Policy Maker and Marketing Team and also build a model to predict the potential customer who is going to purchase the newly introduced travel package.
+Analyze the customers' data and information to provide recommendations to the Policy Maker and Marketing Team and also build a model to predict the potential customer who is going to purchase the newly introduced travel package.
 
 
 Objective:
